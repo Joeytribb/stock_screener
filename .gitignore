@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.ipynb_checkpoints/
+
+# Environments
+HOPEnv/
+.env
+.venv
+
+# Data & Backups
+data/
+oldbackup/
+from_backup/
+
+# IDEs
+.vscode/
+.idea/
